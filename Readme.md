@@ -64,6 +64,7 @@ Frontend
 * src/assets: Contiene activos estáticos como imágenes e iconos utilizados en la aplicación.
 * src/components: Contiene componentes reutilizables utilizados en diferentes partes de la aplicación.
 * src/hooks: Contiene hooks personalizados responsables de encapsular y gestionar lógica compleja utilizada en varias secciones. Los hooks están estratégicamente divididos en tres archivos separados:
+  
       * userHooks.ts: Este archivo incluye hooks personalizados relacionados con funcionalidades relacionadas con el usuario. Encapsula lógica como autenticación de usuario, registro y cualquier otra operación específica del usuario.
 
       * productHooks.ts: Este archivo contiene hooks relacionados con funcionalidades relacionadas con productos. Puede incluir lógica para recuperar, crear, actualizar o eliminar datos de productos.
