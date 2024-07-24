@@ -1,5 +1,6 @@
 # Proyecto-Final_Ecommerce
 --Sabrina
+
 Sabrina es una aplicación full-stack completa para comprar ropa en línea. Con una interfaz intuitiva y amigable, los usuarios pueden navegar y buscar sus productos favoritos fácilmente. Además, tienen la opción de aplicar filtros para una búsqueda más específica y eficiente. La aplicación cuenta con 25 páginas, que incluyen las fundamentales como Inicio, Productos con un catálogo de productos, Carrito y un exclusivo Panel de Control (Dashboard) accesible solo para administradores. El Panel de Control brinda acceso a diversas estadísticas, tablas de pedidos, productos y usuarios, permitiendo a los administradores realizar operaciones como eliminación, actualización y creación.
 
 
